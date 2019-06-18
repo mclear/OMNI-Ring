@@ -296,4 +296,7 @@ Check out the other tutorial section below to find other tutorials that can come
 
 - JavaCard tutorials - old but still relevant - <http://javacard.vetilles.com/tutorial/>
 
+# Development API targets
 
+* JavaCard 3.0.1
+* GlobalPlatform 2.2.1
