@@ -20,7 +20,7 @@ This tutorial shows you how to:
 
 
 
-Requires skills:
+**Required skills:**
 
 - Java
 - Command line (PS/bash)
@@ -28,7 +28,7 @@ Requires skills:
 
 
 
-Required equipment:
+**Required equipment:**
 
 * Computer with Windows 10 or Ubuntu 18.04.2 LTS.
 * PCSC compatible NFC reader.
