@@ -1,3 +1,9 @@
+# NFC Ring OMNI - Developer Edition Ring
+
+
+**Read the Wiki to Get Started **
+https://github.com/mclear/OMNI-Ring/wiki
+
 # Introduction
 
 This tutorial is aimed at developers who are familiar with Java and it might not be suitable for total beginners.
