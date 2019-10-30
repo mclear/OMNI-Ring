@@ -127,7 +127,7 @@ Before we can start building, we need to clone a example project repository:
 - Ubuntu - use normal terminal
 
 ```
-$ git clone --recurse-submodules git@github.com:mclear/dev-ring-getting-started.git
+$ git clone --recurse-submodules git@github.com:mclear/OMNI-Ring.git
 ```
 
 This repository is using a [oracle_javacard_sdks](https://github.com/martinpaljak/oracle_javacard_sdks) git submodule created by Martin Paljak. It’s all the Javacard SDK versions packaged into single repository to ease the toolchain setup. That's why we use --recurse-submodules flag to pull submodule code as well as our example project.
