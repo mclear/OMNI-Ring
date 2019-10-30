@@ -303,6 +303,7 @@ Check out the other tutorial section below to find other tutorials that can come
 # Other tutorials
 
 - JavaCard tutorials - old but still relevant - <http://javacard.vetilles.com/tutorial/>
+- OpenPGP - <https://github.com/mclear/OMNI-Ring/wiki/Guide---OpenPGP>
 
 # Development API targets
 
