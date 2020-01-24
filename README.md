@@ -1,7 +1,7 @@
 # NFC Ring OMNI - Developer Edition Ring
 
 
-**Read the Wiki to Get Started **
+**Read the Wiki to Get Started**
 
 https://github.com/mclear/OMNI-Ring/wiki
 
@@ -115,7 +115,7 @@ On Windows (PowerShell):
 > ./gp.exe --list
 ```
 
-**Note: For consistency throughout the tutorial, all GlobalPlatformPro commands will be written in Linux style. For running the commands on Windows please replace 'java -jar gp.jar' with './gp.exe'. **
+**Note: For consistency throughout the tutorial, all GlobalPlatformPro commands will be written in Linux style. For running the commands on Windows please replace 'java -jar gp.jar' with './gp.exe'.**
 
 
 
@@ -193,7 +193,7 @@ Our rings come preloaded with a simple NDEF applet containing a website link to 
 To remove the applet, run the following command:
 
 ```
-$ java -jar gp.jar --uninstall D276000085
+$ java -jar gp.jar --delete D276000085
 ```
 
 To verify that the applet has been deleted and/or there are no other applets on, use the following command:
