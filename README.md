@@ -300,10 +300,11 @@ Check out the other tutorial section below to find other tutorials that can come
 
 
 
-# Other tutorials
+# Other guides/tutorials/interesting links
 
 - JavaCard tutorials - old but still relevant - <http://javacard.vetilles.com/tutorial/>
 - OpenPGP - <https://github.com/mclear/OMNI-Ring/wiki/Guide---OpenPGP>
+- Curated list of applets - <https://github.com/EnigmaBridge/javacard-curated-list>
 
 # Development API targets
 
