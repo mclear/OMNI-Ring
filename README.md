@@ -32,7 +32,7 @@ This tutorial shows you how to:
 
 * Computer with Windows 10 or Ubuntu 18.04.2 LTS.
 * PCSC compatible NFC reader.
-  * For creating this guide we used ACS ACR 122U.
+  * **Do not use ACS ACR 122U reader as it can brick the ring**
 * A Developer Edition ring from NFCRing. If you don't have it, you can order from nfcring.com.
 
 
